@@ -1,17 +1,18 @@
 # It's FOSS Distro-Chooser
-Simple tool that recommends Linux distributions based on the user's preference
 
-## How to Setup For Local Machine:
+A simple tool that recommends Linux distributions based on user preferences.
 
-* clone the repository
-* open index.html in any browser
+## How to Set Up Locally:
+
+* Clone the repository.
+* Open `index.html` in any browser.
 
 ## Deployment
 
-* Index.php and composer.json configured for nginx(used for heroku deployment)
-* any basic static page renderer can be easily configured for the same 
+* Deployed on **Vercel** for testing.
+* Supports static page rendering.
 
-### For Deployment Integrated with wordpress:-
-  https://www.templatemonster.com/blog/integrate-static-html-wordpress/
-  
+### Deployment with WordPress
 
+For WordPress integration, refer to:
+[How to Integrate Static HTML with WordPress](https://www.templatemonster.com/blog/integrate-static-html-wordpress/)
